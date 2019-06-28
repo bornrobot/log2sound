@@ -1,3 +1,3 @@
 # log2sound
 
-Tails a log file and plays a tone when specified keywords are logged.
+Tail a log file and play a tone when specified keyword is logged.
